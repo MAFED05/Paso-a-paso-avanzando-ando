@@ -1,4 +1,4 @@
-# Paso a paso avanzando ando
+# El código es de los triunfadores
 
 Buen día, hoy les vengo a mostrar como realicé el reto #5 de la clase de programación. Se sufrió pero se logró.
 
